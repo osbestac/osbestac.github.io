@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://osbestac.github.io/osbestac.txt.gz
+Sitemap: https://osbestac.github.io/app/osbestac.txt.gz
+Sitemap: https://osbestac.github.io/assets/osbestac.txt.gz
+Sitemap: https://osbestac.github.io/css/osbestac.txt.gz
+Sitemap: https://osbestac.github.io/includes/osbestac.txt.gz
+Sitemap: https://osbestac.github.io/item/osbestac.txt.gz
+Sitemap: https://osbestac.github.io/src/osbestac.txt.gz
